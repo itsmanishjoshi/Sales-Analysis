@@ -222,7 +222,7 @@ This dataset is provided by the Sales Manager to predict the behavior of sales a
 
 
 ### Updating the data
-Download theand copy the SQL and execute in SQL to update the database.[Update](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Update%20SQL%20Data/Update_AdventureWorksDW_Data.sql)
+Download and execute the script in SQL to update the database.[Update](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Update%20SQL%20Data/Update_AdventureWorksDW_Data.sql)
 
 
 
