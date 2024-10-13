@@ -212,16 +212,17 @@ WHERE
   CalendarYear >= 2021
 ```
 
-# Resources
+# Data Source
 
-### Data Sources
-Sales Data: The primary dataset used for this analysis is the 'Adventure Works.bak' from the Micrsoft's official website, containing detailed information about the sales made by the company.[Download here](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+### Sales Data
+The primary dataset used for this analysis is the 'Adventure Works.bak' containing detailed information about the sales made by the company.[Adventure Works](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
-Budget Data : This dataset is a dummy dataset created to predict the behavior of sales as per the budget over the past years.
+### Budget Data
+This dataset is provided by the Sales Manager to predict the behavior of sales as per the budget over the past years. [Budget Data](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Budget%20File/Sales_Budget.xlsx)
 
 
 ### Updating the data
-[Download](https://github.com/itsmanishjoshi/Sales-Analysis./blob/main/Update_AdventureWorksDQ2020) the file and execute the SQL script to update the database.
+Download and execute the script in SQL to update the database.[Update](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Update%20SQL%20Data/Update_AdventureWorksDW_Data.sql)
 
 
 

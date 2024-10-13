@@ -13,17 +13,6 @@ Description:
 ---------- For example: if the current year is 2021, the data after running the script will be from 2017 to 2021. 
 
  
-
-Author: 
-
----------- David Alzamendi (https://techtalkcorner.com) 
-
- 
-
-Date: 
-
----------- 19/11/2020 
-
 */ 
 
  
