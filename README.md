@@ -212,6 +212,15 @@ WHERE
   CalendarYear >= 2021
 ```
 
+# Data Modeling
+![Data Modelling](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Data%20Model/Data%20Model.png)
+
+
+# Data Visualisation
+![Data Visualisation](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Data%20Visualisation/Page%201.jpg)
+
+  [Download full Pdf](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Data%20Visualisation/Sales%20Report%20-%20Adventure%20Works%20(pdf).pdf)
+
 # Data Source
 
 ### Sales Data
