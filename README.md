@@ -1,12 +1,24 @@
 # Sales Analysis - Adventure Works
 
-### Project Overview
+## Table of contents
+- [Project Overview](#Project-Overview)
+- [Business Demand Letter](#Business-Demand-Letter)
+- [Business Request and user stories](#Business-Request-and-user-stories)
+- [Tools used](#Tools-used)
+- [Data Preperation](#Data-Preperation)
+- [Data Cleansing & Transformation](#Data-Cleansing-&-Transformation)
+- [Data Modeling](#Data-Modeling)
+- [Data Visualisation](#Data-Visualisation)
+- [Data Source](#Data-Source)
+- [Results / Findings](#Results-Findings)
+
+## Project Overview
 This Data Analysis Project aims to provide insights into the sales performance into the sales performance of a company over the past few years. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven decisions and gain a deeper understanding of the company's performance.
 
 
 
 
-### Business Demand Letter [view ](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Business%20Ticket/Business%20Demand%20Overview%20%26%20User%20Stories..docx)
+## Business Demand Letter [view ](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Business%20Ticket/Business%20Demand%20Overview%20%26%20User%20Stories..docx)
 Steven - Sales Manager:
 
 Hi Manish!
@@ -23,17 +35,18 @@ Let me know if you need anything else!
 
 
 
-### Business Request and user stories [view ](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Business%20Ticket/Eample%20Business%20Request%20-%20Mail%20from%20Client..docx)
+## Business Request and user stories [view ](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Business%20Ticket/Eample%20Business%20Request%20-%20Mail%20from%20Client..docx)
 1. Sales Manager           -   To get a dashboard overview of internet sales.
 2. Sales Representative    -   A detailed overview of Internet Sales per Customers.
 3. Sales Representative    -   A detailed overview of Internet Sales per Products.
 4. Sales Manager           -   A dashboard overview of internet sales.
 
-### Tools used
+## Tools used
+- Excel
 - SQL - Data Cleaning
 - POWER BI - Creating Reports
 
-### Data Preperation
+## Data Preperation
 In the initial data preperation phase, we performed the following tasks:
 
 1. Data loading and inspection.
@@ -45,10 +58,8 @@ In the initial data preperation phase, we performed the following tasks:
 
 
 
-### Data Cleansing & Transformation (SQL)
+## Data Cleansing & Transformation (SQL)
 To create the necessary data model for doing data analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL.
-
-One data source (sales budget) was provided in Excel format and was connected in data model in a later step of the process.
 
 Below are some SQL statements for cleansing and transforming necessary data.
 
@@ -232,6 +243,72 @@ This dataset is provided by the Sales Manager to predict the behavior of sales a
 
 ### Updating the data
 Download and execute the script in SQL to update the database.[Update](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Update%20SQL%20Data/Update_AdventureWorksDW_Data.sql)
+
+# Results / Findings
+
+### Sales Overview
+- The highest-selling regions in recent years have been North America, Europe, and Australia, with notable growth in these markets. 
+
+- The top-selling product categories were dominated by Bikes, followed by Accessories and Clothing.
+
+- 2023 stood out as the most profitable year for the business, marking a significant milestone in sales growth. 
+
+- The most profitable months during this period were May, June, October, and November, while February, July, September, and December were identified as the least profitable months.
+
+- A direct correlation between increased budget allocation and higher sales was observed, suggesting that investment in marketing and other areas contributed positively to overall revenue growth.
+
+
+
+### Customer Overview
+- Most buying customers: Jordan Turner followed by Willie XU and Nichole Nara.
+
+- Most buying regions: North - America, Europe & Australia
+
+
+### Product Overview
+
+Bikes
+- The top-selling bikes included:
+- Mountain-200 Black-42
+- Mountain-200 Silver-42
+- Road-150 Red
+
+Accessories
+- In the accessories category, the best-selling products were:
+- Sports-100 Helmet in both Red and Blue.
+- HL Mountain Tyre.
+
+
+Clothing
+- Among clothing items, the top sellers were:
+- Women's Mountain Shorts (L).
+- Long Sleeve Logo Jersey (L).
+- Short Sleeve Classic Jersey (M).
+
+
+# Suggestions
+
+### Sales Strategy
+- Focus on High-Performing Regions: With North America, Europe, and Australia being the highest-selling regions, it would be beneficial to further invest in targeted marketing and promotional activities within these markets to capitalize on their growth potential.
+
+- Increase Budget for Peak Sales Months: Given that May, June, October, and November were the most profitable months, consider allocating more budget during these periods to maximize sales during high-demand seasons. Additionally, marketing efforts during February, July, September, and December should be reviewed to understand and address the reasons behind lower profitability.
+
+- Leverage Budget-Sales Correlation: The positive relationship between increased budget and sales performance suggests that further investment in marketing, customer outreach, and inventory management during peak months could drive greater returns. Continuous monitoring and optimizing the allocation of resources can ensure sustained sales growth.
+
+### Customer Engagement
+- Personalized Offers for Top Customers: With Jordan Turner, Willie Xu, and Nichole Nara being the top buyers, a strategy that rewards their loyalty—such as exclusive offers, early product launches, or personalized experiences—could further increase their purchasing frequency and brand loyalty.
+
+- Expand Customer Base in High-Performing Regions: The customer base in North America, Europe, and Australia is robust, and further segmentation to identify untapped customer profiles or niches within these regions can enhance sales. Targeted campaigns or introducing region-specific products could help in expanding market share.
+
+### Product Focus
+- Increase Production of Best-Selling Bikes: Given the strong sales of the Mountain-200 Black-42, Mountain-200 Silver-42, and Road-150 Red models, ensuring sufficient stock and introducing complementary products or accessories for these models could further drive sales in the bikes category.
+
+- Diversify Accessory Offerings: As Sports-100 Helmets in Red and Blue and the HL Mountain Tyre are top-sellers, expanding the accessories line with additional color options or introducing new, related products (e.g., high-performance tires or protective gear) could attract more customers and enhance the accessories portfolio.
+
+- Focus on Popular Clothing Lines: With the Women’s Mountain Shorts (L), Long Sleeve Logo Jersey (L), and Short Sleeve Classic Jersey (M) showing strong performance, expanding these lines with new sizes, colors, or designs may further boost clothing sales. Offering these items as part of bundle deals or in limited editions can create a sense of urgency and increase sales.
+
+- These suggestions focus on optimizing existing strengths and addressing areas for improvement, aligning with observed trends in sales and customer behavior.
+
 
 
 
