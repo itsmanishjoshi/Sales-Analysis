@@ -14,7 +14,8 @@
 - [Conclusion](#Conclusion)
 
 ## Project Overview
-This Data Analysis Project aims to provide insights into the sales performance into the sales performance of a company over the past few years. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven decisions and gain a deeper understanding of the company's performance.
+This Data Analysis Project aims to deliver actionable insights into the sales performance of the company over the past several years. By rigorously analyzing key aspects of the sales data, we seek to uncover trends, identify growth opportunities, and facilitate data-driven decision-making. This comprehensive analysis will provide stakeholders with a deeper understanding of the company's performance dynamics, enabling strategic planning and enhancing competitive positioning in the market. Our findings will serve as a foundation for optimizing sales strategies and driving future business growth.
+
 
 
 
@@ -26,8 +27,10 @@ Hi Manish!
 
 I hope you are doing well. We need to improve our internet sales reports and want to move from static reports to visual dashboards.
 Essentially, we want to focus it on how much we have sold of what products, to which clients and how it has been over time.
+
 Seeing as each sales person works on different products and customers it would be beneficial to be able to filter them also.
 We measure our numbers against budget so I added that in a spreadsheet so we can compare our values against performance. 
+
 The budget is for 2021 and we usually look 2 years back in time when we do analysis of sales.
 Let me know if you need anything else!
 
@@ -46,7 +49,7 @@ Let me know if you need anything else!
 
 ## Tools used
 - Excel
-- SQL - Data Cleaning
+- SQL - Data Cleaning/Preperation
 - POWER BI - Creating Reports
 
 ## Data Preperation
@@ -227,10 +230,19 @@ WHERE
 ```
 
 # Data Modeling
+
+This screenshot showcases the structured data model created in Power BI, illustrating the relationships between key datasets to enable efficient analysis and reporting for the project.
+
+
 ![Data Modelling](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Data%20Model/Data%20Model.png)
 
 
 # Data Visualisation
+
+After loading the processed data and constructing a comprehensive data model, I developed an in-depth data analysis report. The following screenshot presents the visualized data within Power BI, highlighting key insights derived from dynamic and interactive dashboards.
+
+
+
 ![Data Visualisation](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Data%20Visualisation/Page%201.jpg)
 
   [Download full Pdf](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Data%20Visualisation/Sales%20Report%20-%20Adventure%20Works%20(pdf).pdf)
