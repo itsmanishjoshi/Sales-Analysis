@@ -1,4 +1,4 @@
-# Sales Analysis - Adventure Works
+# Sales Analysis
 
 ## Table of contents
 - [Project Overview](#Project-Overview)
