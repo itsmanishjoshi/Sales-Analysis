@@ -37,10 +37,12 @@ Let me know if you need anything else!
 
 
 ## Business Request and user stories [view ](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Business%20Ticket/Eample%20Business%20Request%20-%20Mail%20from%20Client..docx)
-1. Sales Manager           -   To get a dashboard overview of internet sales.
-2. Sales Representative    -   A detailed overview of Internet Sales per Customers.
-3. Sales Representative    -   A detailed overview of Internet Sales per Products.
-4. Sales Manager           -   A dashboard overview of internet sales.
+|NO. | As a (role) | I want (request/demand) |
+|----|-------------|-------------------------|
+|1. |Sales Manager |          -   To get a dashboard overview of internet sales.|
+|2. |Sales Representative |   -   A detailed overview of Internet Sales per Customers.|
+|3. |Sales Representative |   -   A detailed overview of Internet Sales per Products.|
+|4. | Sales Manager |          -   A dashboard overview of internet sales.|
 
 ## Tools used
 - Excel
