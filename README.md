@@ -61,7 +61,19 @@ In the initial data preperation phase, we performed the following tasks:
 
 
 
+# Data Source
 
+### Sales Data
+The primary dataset used for this analysis is the 'Adventure Works.bak' containing detailed information about the sales made by the company.[Adventure Works](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+
+### Budget Data
+This dataset is provided by the Sales Manager to predict the behavior of sales as per the budget over the past years. [Budget Data](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/1.%20Data/Sales_Budget.xlsx)
+
+
+### Updating the data
+Download and execute the script in SQL to update the database.[Update](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/1.%20Data/Update_AdventureWorksDW_Data.sql)
+
+![Raw Data Customer Table](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/1.%20Data/Customer%20Table%20Raw%20-%20img.png)
 
 
 ## Data Cleansing & Transformation (SQL)
@@ -247,17 +259,6 @@ After loading the processed data and constructing a comprehensive data model, I 
 
   [Download full Pdf](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Sales%20Report%20-%20pdf.pdf)
 
-# Data Source
-
-### Sales Data
-The primary dataset used for this analysis is the 'Adventure Works.bak' containing detailed information about the sales made by the company.[Adventure Works](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
-
-### Budget Data
-This dataset is provided by the Sales Manager to predict the behavior of sales as per the budget over the past years. [Budget Data](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/1.%20Data/Sales_Budget.xlsx)
-
-
-### Updating the data
-Download and execute the script in SQL to update the database.[Update](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/1.%20Data/Update_AdventureWorksDW_Data.sql)
 
 # Results / Findings
 
