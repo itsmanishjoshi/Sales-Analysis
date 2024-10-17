@@ -20,7 +20,7 @@ This Data Analysis Project aims to deliver actionable insights into the sales pe
 
 
 
-## Business Demand Letter [view ](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Business%20Ticket/Business%20Demand%20Overview%20%26%20User%20Stories..docx)
+## Business Demand Letter [view ](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/2.%20Business%20Ticket/Business%20Demand%20-%20img.png)
 Steven - Sales Manager:
 
 Hi Manish!
@@ -39,7 +39,7 @@ Let me know if you need anything else!
 
 
 
-## Business Request and user stories [view ](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Business%20Ticket/Eample%20Business%20Request%20-%20Mail%20from%20Client..docx)
+## Business Request and user stories [view ](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/2.%20Business%20Ticket/Business%20Request%20-%20img.png)
 |NO. | As a (role) | I want (request/demand) |
 |----|-------------|-------------------------|
 |1. |Sales Manager |          -   To get a dashboard overview of internet sales.|
@@ -234,7 +234,7 @@ WHERE
 This screenshot showcases the structured data model created in Power BI, illustrating the relationships between key datasets to enable efficient analysis and reporting for the project.
 
 
-![Data Modelling](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Data%20Model/Data%20Model.png)
+![Data Modelling](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/4.%20Power%20BI/Data%20Model.png)
 
 
 # Data Visualisation
@@ -243,9 +243,9 @@ After loading the processed data and constructing a comprehensive data model, I 
 
 
 
-![Data Visualisation](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Data%20Visualisation/Page%201.jpg)
+![Data Visualisation](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/4.%20Power%20BI/Dashboard%20-%20img.jpg)
 
-  [Download full Pdf](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Data%20Visualisation/Sales%20Report%20-%20Adventure%20Works%20(pdf).pdf)
+  [Download full Pdf](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Sales%20Report%20-%20pdf.pdf)
 
 # Data Source
 
@@ -253,11 +253,11 @@ After loading the processed data and constructing a comprehensive data model, I 
 The primary dataset used for this analysis is the 'Adventure Works.bak' containing detailed information about the sales made by the company.[Adventure Works](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
 ### Budget Data
-This dataset is provided by the Sales Manager to predict the behavior of sales as per the budget over the past years. [Budget Data](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Budget%20File/Sales_Budget.xlsx)
+This dataset is provided by the Sales Manager to predict the behavior of sales as per the budget over the past years. [Budget Data](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/1.%20Data/Sales_Budget.xlsx)
 
 
 ### Updating the data
-Download and execute the script in SQL to update the database.[Update](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/Update%20SQL%20Data/Update_AdventureWorksDW_Data.sql)
+Download and execute the script in SQL to update the database.[Update](https://github.com/itsmanishjoshi/Sales-Analysis/blob/main/1.%20Data/Update_AdventureWorksDW_Data.sql)
 
 # Results / Findings
 
